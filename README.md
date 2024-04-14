@@ -1,7 +1,7 @@
 # MEMLM
 Here is the source code for Multi Ensemble Machine Learning Model.  
 Multi Ensemble Machine Learning Model is a novel machine-learning based model for palaeoecology.  
-The source data are marked at data/Data_source.txt. Download and use of data shall be subject to respective database terms!
+The source data are marked at Data_source.txt. Download and use of data shall be subject to respective database terms!
 After download. please separately save the corresponding taxa composition dataset and environmental dataset as CSV files.
 
 For paleoclimate reconstruction:
